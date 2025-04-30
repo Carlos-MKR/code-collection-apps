@@ -8,6 +8,7 @@ Este repositorio contiene una colección de aplicaciones creadas. Cada proyecto 
 
 | Proyecto         | Descripción                                         | Tecnologías                 |
 |------------------|-----------------------------------------------------|-----------------------------|
-| [Blackjack App](./blackjack-app)           | Juego de Blackjack interactivo.                    | HTML, CSS, JavaScript, Vite |
+| [Blackjack App](./Blackjack-App)           | Juego de Blackjack interactivo.                    | HTML, CSS, JavaScript, Vite |
+| [ToDo App](./toDo-app)           |App de tareas interactiva para mantener el control de tus actividades                    | HTML, CSS, JavaScript, Vite |
 
 ---
