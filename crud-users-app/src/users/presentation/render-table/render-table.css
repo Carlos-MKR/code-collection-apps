@@ -1,0 +1,63 @@
+/* render-table.css */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+thead {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+th, td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+td {
+    color: black;
+}
+
+
+
+th {
+  font-weight: bold;
+}
+
+.edit-user,
+.delete-user {
+  margin-right: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.edit-user {
+  color: #fff;
+  background-color: #3498db;
+}
+
+.edit-user:hover {
+  background-color: #2980b9;
+  color: white;
+}
+
+.delete-user {
+  color: #fff;
+  background-color: #e74c3c;
+}
+
+.delete-user:hover {
+  background-color: #c0392b;
+  color: white;
+}
