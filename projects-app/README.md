@@ -3,6 +3,9 @@
 App moderna de gestión de proyectos, inspirada en herramientas tipo Notion.
 La aplicación fue construida con un stack moderno enfocado en rendimiento, escalabilidad y una UI limpia.
 
+[![Demo](https://img.shields.io/badge/Demo-Ver%20App-blue?style=for-the-badge)](https://youtu.be/Yo94hF3CsEc)
+
+
 ## 🚀 Características principales:
 - Gestión de proyectos y subtareas
 - Cálculo automático de progreso
